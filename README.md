@@ -4,7 +4,7 @@ I am a highly skilled Full-Stack developer, with core technical expertise in Mon
 
 
 ## GeekOverflow: Social Media Website
-**Tech**: ReactJS, Chakra UI, ExpressJS, MongoDB, REST API
+**Tech : ReactJS, Chakra UI, ExpressJS, MongoDB, REST API
 * Website for developers to share their thoughts and follow other developers
 * I built it from scratch including authentication, and used JWT for authorization 
 * You can follow other users and it generates a Feed which contains posts of all the users you are following
@@ -14,7 +14,7 @@ I am a highly skilled Full-Stack developer, with core technical expertise in Mon
 
 
 ## Everyone Answers (Firebase)
-**Tech**: ReactJS, Firebase Authentication, FireStore Database, Redux
+**Tech : ReactJS, Firebase Authentication, FireStore Database, Redux
 * App created to help teachers get instant response from students in a live online class
 * Teacher can create a session, add students and can share a unique link with students
 * When a student opens the portal and answers something, it appears on teacher’s dashboard.
@@ -25,7 +25,7 @@ I am a highly skilled Full-Stack developer, with core technical expertise in Mon
 
 ## Movies Website
 #### [Github Repo](https://github.com/AmitkumarMishra-code/Movies-Website)
-**Tech**: ReactJS, HTML and CSS Flexbox
+**Tech : ReactJS, HTML and CSS Flexbox
 * This is a website to browse and search popular movies and view posters and trailer videos.
 * Implemented Tabs to get Popular, Upcoming, Now Playing and Top Rated Movies.
 * In addition, each movie tile gets its own pop-up, which shows a short summary, and the rating of the movie.
@@ -39,7 +39,7 @@ I am a highly skilled Full-Stack developer, with core technical expertise in Mon
 
 ## Memory Game 
 #### [Github Repo]()
-**Tech**: ReactJS, HTML and CSS Flexbox
+**Tech : ReactJS, HTML and CSS Flexbox
 * Created a fun time-based memory game using ReactJS
 * Props drilling in this app was a challenge, but was also fun at the same time.
 * Made it fully responsive. Works well on Tabs and smartphones as well.
