@@ -26,8 +26,9 @@ Tech: ReactJS, Firebase Authentication, FireStore Database, Redux
 ## Movies Website
 #### [Github Repo](https://github.com/AmitkumarMishra-code/Movies-Website)
 Tech: ReactJS, HTML and CSS Flexbox
-* This is a website to browse and search popular movies and view posters and trailer videos
-* Implemented search using a 3rd Party REST API and used routing and pagination to load 10 movies at a time.
+* This is a website to browse and search popular movies and view posters and trailer videos.
+* Implemented Tabs to get Popular, Upcoming, Now Playing and Top Rated Movies.
+* Selected Movie shows details about the movie, as well as shows the avenues where the movie can be seen.
 * [Website Link](https://optimistic-saha-892043.netlify.app/)
 * [Video Walkthrough](https://youtu.be/85qxL8rHFt8)
 
@@ -39,7 +40,8 @@ Tech: ReactJS, HTML and CSS Flexbox
 #### [Github Repo]()
 Tech: ReactJS, HTML and CSS Flexbox
 * Created a fun time-based memory game using ReactJS
-* Using multiple timers on the same page was a challenge 
+* Props drilling in this app was a challenge, but was also fun at the same time.
+* Made it fully responsive. Works well on Tabs and smartphones as well.
 * Here is the link to play the game, enjoy! [Memory Game](https://pedantic-austin-716dc1.netlify.app/)
 * [Video Playthrough](https://youtu.be/A82priknE3g)
 
