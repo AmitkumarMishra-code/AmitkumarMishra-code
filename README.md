@@ -26,7 +26,7 @@ I am a highly skilled Full-Stack developer, with core technical expertise in Mon
 ## Movies Website
 #### [Github Repo](https://github.com/AmitkumarMishra-code/Movies-Website)
 **Tech : ReactJS, HTML and CSS Flexbox**
-* This is a website to browse and search popular movies and view posters and trailer videos.
+* This is a website to browse popular movies and view posters and trailer videos.
 * Implemented Tabs to get Popular, Upcoming, Now Playing and Top Rated Movies.
 * In addition, each movie tile gets its own pop-up, which shows a short summary, and the rating of the movie.
 * Selected Movie shows details about the movie, as well as shows the avenues where the movie can be seen.
