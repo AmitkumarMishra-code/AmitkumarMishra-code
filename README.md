@@ -28,6 +28,7 @@ Tech: ReactJS, Firebase Authentication, FireStore Database, Redux
 Tech: ReactJS, HTML and CSS Flexbox
 * This is a website to browse and search popular movies and view posters and trailer videos.
 * Implemented Tabs to get Popular, Upcoming, Now Playing and Top Rated Movies.
+* In addition, each movie tile gets its own pop-up, which shows a short summary, and the rating of the movie.
 * Selected Movie shows details about the movie, as well as shows the avenues where the movie can be seen.
 * [Website Link](https://optimistic-saha-892043.netlify.app/)
 * [Video Walkthrough](https://youtu.be/85qxL8rHFt8)
