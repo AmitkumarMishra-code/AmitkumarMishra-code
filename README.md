@@ -4,22 +4,26 @@ I am a highly skilled Full-Stack developer, with core technical expertise in Mon
 
 
 ## GeekOverflow: Social Media Website
+#### Github Repos : [Front-End](https://github.com/AmitkumarMishra-code/programmers-social-media-front-end) | [Back-End](https://github.com/AmitkumarMishra-code/programmers-social-media-back-end) | [Website Link](https://affectionate-hermann-54e725.netlify.app/) | [Video Walkthrough]()
 **Tech : ReactJS, Chakra UI, ExpressJS, MongoDB, REST API**
 * Website for developers to share their thoughts and follow other developers
 * I built it from scratch including authentication, and used JWT for authorization 
 * You can follow other users and it generates a Feed which contains posts of all the users you are following
 * You can like a post, view other users’ profile and unfollow them if you want
-* Here is the website [link](https://affectionate-hermann-54e725.netlify.app/), you can login with username testUser and password test1234 and have a look
+* You can login with username testUser and password test1234 and have a look
 
+###### Screenshots :
 
 
 ## Everyone Answers (Firebase)
+#### [Github Repo](https://github.com/AmitkumarMishra-code/capstone_answers) | [Website Link](https://upbeat-heyrovsky-2bf0f3.netlify.app/) | [Video Walkthrough]()
 **Tech : ReactJS, Firebase Authentication, FireStore Database, Redux**
 * App created to help teachers get instant response from students in a live online class
 * Teacher can create a session, add students and can share a unique link with students
 * When a student opens the portal and answers something, it appears on teacher’s dashboard.
 * Here is a link to teacher’s dashboard for you to try it.
 
+###### Screenshots :
 
 
 
@@ -27,8 +31,8 @@ I am a highly skilled Full-Stack developer, with core technical expertise in Mon
 #### [Github Repo](https://github.com/AmitkumarMishra-code/Movies-Website) | [Website Link](https://optimistic-saha-892043.netlify.app/) | [Video Walkthrough](https://youtu.be/85qxL8rHFt8)
 **Tech : ReactJS, HTML and CSS Flexbox**
 * This is a website to browse popular movies and view posters and trailer videos.
-* Implemented Tabs to get Popular, Upcoming, Now Playing and Top Rated Movies.
-* In addition, each movie tile gets its own pop-up, which shows a short summary, and the rating of the movie.
+* User can browse movies by categories like "Popular", "Now Playing", "Upcoming" and "Top Rated".
+* In addition, each movie card shows additional information on hover.
 * Selected Movie shows details about the movie, as well as shows the avenues where the movie can be seen.
 
 ###### Screenshots :
@@ -36,13 +40,11 @@ I am a highly skilled Full-Stack developer, with core technical expertise in Mon
 <img src="https://github.com/AmitkumarMishra-code/Movies-Website/blob/master/screenshots/selected.png"/>
 
 ## Memory Game 
-#### [Github Repo]()
+#### [Github Repo](https://github.com/AmitkumarMishra-code/Memory-Game) | [Memory Game](https://pedantic-austin-716dc1.netlify.app/) | [Video Playthrough](https://youtu.be/A82priknE3g)
 **Tech : ReactJS, HTML and CSS Flexbox**
 * Created a fun time-based memory game using ReactJS
 * Props drilling in this app was a challenge, but was also fun at the same time.
 * Made it fully responsive. Works well on Tabs and smartphones as well.
-* Here is the link to play the game, enjoy! [Memory Game](https://pedantic-austin-716dc1.netlify.app/)
-* [Video Playthrough](https://youtu.be/A82priknE3g)
 
 ###### Screenshots
 <img src = "https://github.com/AmitkumarMishra-code/Memory-Game/blob/master/screenshots/2021-07-27%20(2).png" />
