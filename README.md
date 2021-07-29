@@ -4,7 +4,7 @@ I am a highly skilled Full-Stack developer, with core technical expertise in Mon
 
 
 ## GeekOverflow: Social Media Website
-#### Github Repos : [Front-End](https://github.com/AmitkumarMishra-code/programmers-social-media-front-end) | [Back-End](https://github.com/AmitkumarMishra-code/programmers-social-media-back-end) | [Website Link](https://affectionate-hermann-54e725.netlify.app/) | [Video Walkthrough]()
+#### [Github Repo Front-End](https://github.com/AmitkumarMishra-code/programmers-social-media-front-end) | [Github Repo Back-End](https://github.com/AmitkumarMishra-code/programmers-social-media-back-end) | [Website Link](https://affectionate-hermann-54e725.netlify.app/) | [Video Walkthrough]()
 **Tech : ReactJS, Chakra UI, ExpressJS, MongoDB, REST API**
 * Website for developers to share their thoughts and follow other developers
 * I built it from scratch including authentication, and used JWT for authorization 
@@ -13,7 +13,10 @@ I am a highly skilled Full-Stack developer, with core technical expertise in Mon
 * You can login with username testUser and password test1234 and have a look
 
 ###### Screenshots :
-
+<img src = "https://github.com/AmitkumarMishra-code/programmers-social-media-front-end/blob/main/screenshots/2021-07-28%20(7).png"/>
+<img src = "https://github.com/AmitkumarMishra-code/programmers-social-media-front-end/blob/main/screenshots/2021-07-29.png"/>
+<img src = "https://github.com/AmitkumarMishra-code/programmers-social-media-front-end/blob/main/screenshots/2021-07-29%20(4).png"/>
+<img src = "https://github.com/AmitkumarMishra-code/programmers-social-media-front-end/blob/main/screenshots/2021-07-29%20(5).png"/>
 
 ## Everyone Answers (Firebase)
 #### [Github Repo](https://github.com/AmitkumarMishra-code/capstone_answers) | [Website Link](https://upbeat-heyrovsky-2bf0f3.netlify.app/) | [Video Walkthrough]()
@@ -24,8 +27,10 @@ I am a highly skilled Full-Stack developer, with core technical expertise in Mon
 * Here is a link to teacher’s dashboard for you to try it.
 
 ###### Screenshots :
-
-
+<img src = "https://github.com/AmitkumarMishra-code/capstone_answers/blob/main/screenshots/2021-07-28.png"/>
+<img src = "https://github.com/AmitkumarMishra-code/capstone_answers/blob/main/screenshots/2021-07-28%20(1).png"/>
+<img src = "https://github.com/AmitkumarMishra-code/capstone_answers/blob/main/screenshots/2021-07-28%20(5).png"/>
+<img src = "https://github.com/AmitkumarMishra-code/capstone_answers/blob/main/screenshots/2021-07-28%20(6).png"/>
 
 ## Movies Website
 #### [Github Repo](https://github.com/AmitkumarMishra-code/Movies-Website) | [Website Link](https://optimistic-saha-892043.netlify.app/) | [Video Walkthrough](https://youtu.be/85qxL8rHFt8)
