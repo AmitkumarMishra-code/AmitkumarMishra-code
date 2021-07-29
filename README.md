@@ -9,7 +9,7 @@ I am a highly skilled Full-Stack developer, with core technical expertise in Mon
 * I built it from scratch including authentication, and used JWT for authorization 
 * You can follow other users and it generates a Feed which contains posts of all the users you are following
 * You can like a post, view other users’ profile and unfollow them if you want
-* Here is the website link, you can login with username arnav and password test1234 and have a look
+* Here is the website [link](https://affectionate-hermann-54e725.netlify.app/), you can login with username testUser and password test1234 and have a look
 
 
 
@@ -24,14 +24,12 @@ I am a highly skilled Full-Stack developer, with core technical expertise in Mon
 
 
 ## Movies Website
-#### [Github Repo](https://github.com/AmitkumarMishra-code/Movies-Website)
+#### [Github Repo](https://github.com/AmitkumarMishra-code/Movies-Website) | [Website Link](https://optimistic-saha-892043.netlify.app/) | [Video Walkthrough](https://youtu.be/85qxL8rHFt8)
 **Tech : ReactJS, HTML and CSS Flexbox**
 * This is a website to browse popular movies and view posters and trailer videos.
 * Implemented Tabs to get Popular, Upcoming, Now Playing and Top Rated Movies.
 * In addition, each movie tile gets its own pop-up, which shows a short summary, and the rating of the movie.
 * Selected Movie shows details about the movie, as well as shows the avenues where the movie can be seen.
-* [Website Link](https://optimistic-saha-892043.netlify.app/)
-* [Video Walkthrough](https://youtu.be/85qxL8rHFt8)
 
 ###### Screenshots :
 <img src= "https://github.com/AmitkumarMishra-code/Movies-Website/blob/master/screenshots/home.png" />
