@@ -4,7 +4,7 @@ I am a highly skilled Full-Stack developer, with core technical expertise in Mon
 
 
 ## GeekOverflow: Social Media Website
-#### [Github Repo Front-End](https://github.com/AmitkumarMishra-code/programmers-social-media-front-end) | [Github Repo Back-End](https://github.com/AmitkumarMishra-code/programmers-social-media-back-end) | [Website Link](https://affectionate-hermann-54e725.netlify.app/) | [Video Walkthrough]()
+#### [Github Repo Front-End](https://github.com/AmitkumarMishra-code/programmers-social-media-front-end) | [Github Repo Back-End](https://github.com/AmitkumarMishra-code/programmers-social-media-back-end) | [Website Link](https://affectionate-hermann-54e725.netlify.app/)
 **Tech : ReactJS, Chakra UI, ExpressJS, MongoDB, REST API**
 * Website for developers to share their thoughts and follow other developers
 * I built it from scratch including authentication, and used JWT for authorization 
@@ -19,7 +19,7 @@ I am a highly skilled Full-Stack developer, with core technical expertise in Mon
 <img src = "https://github.com/AmitkumarMishra-code/programmers-social-media-front-end/blob/main/screenshots/2021-07-29%20(5).png"/>
 
 ## Everyone Answers (Firebase)
-#### [Github Repo](https://github.com/AmitkumarMishra-code/capstone_answers) | [Website Link](https://upbeat-heyrovsky-2bf0f3.netlify.app/) | [Video Walkthrough]()
+#### [Github Repo](https://github.com/AmitkumarMishra-code/capstone_answers) | [Website Link](https://upbeat-heyrovsky-2bf0f3.netlify.app/)
 **Tech : ReactJS, Firebase Authentication, FireStore Database, Redux**
 * App created to help teachers get instant response from students in a live online class
 * Teacher can create a session, add students and can share a unique link with students
