@@ -1,4 +1,4 @@
-### Hi, I am Amit Mishra 👋,
+### Hi, I am Amitkumar Mishra 👋,
 
 I am a highly skilled Full-Stack developer, with core technical expertise in MongoDB, Express.js, React.js, Node.js, and Firebase. Being a quick learner who adapts to new technologies quickly, I believe that we learn from our mistakes, and can confidently say that I very rarely make the same mistake twice. I love working on projects that are challenging, as they help me evolve as a developer. I look forward to working with clients from all over the world, and in the process learn from them and expand my knowledge.
 
