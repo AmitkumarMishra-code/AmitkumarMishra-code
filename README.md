@@ -12,9 +12,9 @@ I am a highly skilled Full-Stack developer, with core technical expertise in Mon
 * I worked on the front-end of the application, built it from scratch and integrated the API.
 
 ###### Screenshots :
-<img src = "https://i.ibb.co/wz7WfdL/Screenshot-2021-10-21-120018.png" style = " border-radius:12px ; box shadow:5px 5px 5px gray; "/>
+<img src = "https://i.ibb.co/wz7WfdL/Screenshot-2021-10-21-120018.png"/>
 <hr/>
-<img src = "https://i.ibb.co/fCdF4qJ/Screenshot-2021-10-21-115320.png" style = " border-radius:12px ; box-shadow:5px 5px 5px gray; "/>
+<img src = "https://i.ibb.co/fCdF4qJ/Screenshot-2021-10-21-115320.png"/>
 <hr/>
 
 #### Learner App
@@ -40,7 +40,23 @@ I am a highly skilled Full-Stack developer, with core technical expertise in Mon
 <img src = "https://i.ibb.co/Rbt4PsV/Screenshot-2021-10-21-123126.png"  width = '50%' height = '50%' />
 <hr/>
 
+## Contact Us form with Nodemailer and Mailjet node.js Google Cloud Function for Torino Ventures Limited, Brighton and Hove, UK
+**Tech : ReactJS, Formik, NodeJS and Google Cloud Functions**
 
+* The project involved creating a mock Contact Us form using Typescript.
+* I had to create a Google Cloud Function using NodeJS.
+* The Cloud Function used NodeMailer and Mailjet to send the values received from the Contact Form to a fixed email address.
+
+###### Screenshots :
+<img src = "https://i.ibb.co/GCJ42qJ/screencapture-festive-lovelace-1d6008-netlify-app-2021-10-21-16-01-31.png"/>
+<hr/>
+
+#### Client Feedback
+**Torino Ventures Limited, Brighton and Hove, UK**
+
+###### Screenshots :
+<img src = "https://i.ibb.co/kQFsXK2/Screenshot-2021-10-21-123953.png" width = '50%' height = '50%' />
+<hr/>
 
 # Personal Projects
 ## GeekOverflow: Social Media Website
