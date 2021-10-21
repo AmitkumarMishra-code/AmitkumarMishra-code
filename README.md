@@ -27,18 +27,18 @@ I am a highly skilled Full-Stack developer, with core technical expertise in Mon
 
 ###### Screenshots :
 <img src = "https://i.ibb.co/KxmfRqm/screencapture-sleepy-feynman-c1bca4-netlify-app-home-2021-10-21-12-14-02.png"/>
-___
+<hr/>
 <img src = "https://i.ibb.co/Wx299xq/screencapture-sleepy-feynman-c1bca4-netlify-app-courses-18-2021-10-21-12-18-24.png"/>
-___
+<hr/>
 
 #### Client Feedback
 **Thulir Soft, Chennai, India**
 
 ###### Screenshots :
-<img src = "https://i.ibb.co/9VGh8Fd/Screenshot-2021-10-21-123017.png"/>
-___
-<img src = "https://i.ibb.co/Rbt4PsV/Screenshot-2021-10-21-123126.png"/>
-___
+<img src = "https://i.ibb.co/9VGh8Fd/Screenshot-2021-10-21-123017.png" width = '50%' height = '50%' />
+<hr/>
+<img src = "https://i.ibb.co/Rbt4PsV/Screenshot-2021-10-21-123126.png"  width = '50%' height = '50%' />
+<hr/>
 
 
 
