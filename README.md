@@ -4,7 +4,7 @@ I am a highly skilled Full-Stack developer, with core technical expertise in Mon
 
 # Professional Projects
 ## LMS Application for Thulir Soft, Chennai, India
-**Tech : ReactJS, Chakra UI
+**Tech : ReactJS, Chakra UI**
 #### Trainer App
 * Trainers/Teachers can add new Courses, new Topics in the Courses and new Quizzes in those Topics.
 * Trainers/Teachers can schedule Live Courses on Cisco Webex.
@@ -28,7 +28,7 @@ I am a highly skilled Full-Stack developer, with core technical expertise in Mon
 <img src = "https://i.ibb.co/Wx299xq/screencapture-sleepy-feynman-c1bca4-netlify-app-courses-18-2021-10-21-12-18-24.png"/>
 
 #### Client Feedback
-**Thulir Soft, Chennai, India
+**Thulir Soft, Chennai, India**
 <img src = "https://i.ibb.co/9VGh8Fd/Screenshot-2021-10-21-123017.png"/>
 <img src = "https://i.ibb.co/Rbt4PsV/Screenshot-2021-10-21-123126.png"/>
 
