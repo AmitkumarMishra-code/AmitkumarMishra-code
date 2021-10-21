@@ -2,6 +2,36 @@
 
 I am a highly skilled Full-Stack developer, with core technical expertise in MongoDB, Express.js, React.js, Node.js, and Firebase. Being a quick learner who adapts to new technologies quickly, I believe that we learn from our mistakes, and can confidently say that I very rarely make the same mistake twice. I love working on projects that are challenging, as they help me evolve as a developer. I look forward to working with clients from all over the world, and in the process learn from them and expand my knowledge.
 
+# Professional Projects
+## LMS Application for Thulir Soft, Chennai, India
+**Tech : ReactJS, Chakra UI
+#### Trainer App
+* Trainers/Teachers can add new Courses, new Topics in the Courses and new Quizzes in those Topics.
+* Trainers/Teachers can schedule Live Courses on Cisco Webex.
+* Trainers/Teachers have access to Analytics and Dashboard to get information about Course Performance and Student Performance.
+* I worked on the front-end of the application, built it from scratch and integrated the API.
+
+###### Screenshots :
+<img src = "https://i.ibb.co/wz7WfdL/Screenshot-2021-10-21-120018.png"/>
+<img src = "https://i.ibb.co/fCdF4qJ/Screenshot-2021-10-21-115320.png"/>
+
+#### Learner App
+* Learner/Students can view all available Courses take any Course available to them.
+* They have access to study material uploaded for Topics and can take Quizzes available for the Course.
+* Students are instantly graded and they have their scorecard available to see and download in excel format.
+* Learner/Students can attend Live Courses on Cisco Webex.
+* Learner/Students have access to Dashboard to track their performance.
+* I worked on the front-end of the application, built it from scratch and integrated the API.
+
+###### Screenshots :
+<img src = "https://i.ibb.co/KxmfRqm/screencapture-sleepy-feynman-c1bca4-netlify-app-home-2021-10-21-12-14-02.png"/>
+<img src = "https://i.ibb.co/Wx299xq/screencapture-sleepy-feynman-c1bca4-netlify-app-courses-18-2021-10-21-12-18-24.png"/>
+
+#### Client Feedback
+**Thulir Soft, Chennai, India
+<img src = "https://i.ibb.co/9VGh8Fd/Screenshot-2021-10-21-123017.png"/>
+<img src = "https://i.ibb.co/Rbt4PsV/Screenshot-2021-10-21-123126.png"/>
+
 # Personal Projects
 ## GeekOverflow: Social Media Website
 #### [Github Repo Front-End](https://github.com/AmitkumarMishra-code/programmers-social-media-front-end) | [Github Repo Back-End](https://github.com/AmitkumarMishra-code/programmers-social-media-back-end) | [Website Link](https://affectionate-hermann-54e725.netlify.app/)
