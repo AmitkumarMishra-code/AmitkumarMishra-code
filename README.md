@@ -13,9 +13,9 @@ I am a highly skilled Full-Stack developer, with core technical expertise in Mon
 
 ###### Screenshots :
 <img src = "https://i.ibb.co/wz7WfdL/Screenshot-2021-10-21-120018.png"/>
-___
+<hr/>
 <img src = "https://i.ibb.co/fCdF4qJ/Screenshot-2021-10-21-115320.png"/>
-___
+<hr/>
 
 #### Learner App
 * Learner/Students can view all available Courses take any Course available to them.
