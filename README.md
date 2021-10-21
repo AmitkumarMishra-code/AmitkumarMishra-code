@@ -3,7 +3,7 @@
 I am a highly skilled Full-Stack developer, with core technical expertise in MongoDB, Express.js, React.js, Node.js, and Firebase. Being a quick learner who adapts to new technologies quickly, I believe that we learn from our mistakes, and can confidently say that I very rarely make the same mistake twice. I love working on projects that are challenging, as they help me evolve as a developer. I look forward to working with clients from all over the world, and in the process learn from them and expand my knowledge.
 
 # Professional Projects
-## LMS Application for Thulir Soft, Chennai, India
+## LMS Application for Thulir Software Technologies Private Limited, Chennai, India
 **Tech : ReactJS, Chakra UI**
 #### Trainer App
 * Trainers/Teachers can add new Courses, new Topics in the Courses and new Quizzes in those Topics.
@@ -32,7 +32,7 @@ I am a highly skilled Full-Stack developer, with core technical expertise in Mon
 <hr/>
 
 #### Client Feedback
-**Thulir Soft, Chennai, India**
+**Thulir Software Technologies Private Limited, Chennai, India**
 
 ###### Screenshots :
 <img src = "https://i.ibb.co/9VGh8Fd/Screenshot-2021-10-21-123017.png" width = '50%' height = '50%' />
@@ -42,7 +42,6 @@ I am a highly skilled Full-Stack developer, with core technical expertise in Mon
 
 
 
----
 # Personal Projects
 ## GeekOverflow: Social Media Website
 #### [Github Repo Front-End](https://github.com/AmitkumarMishra-code/programmers-social-media-front-end) | [Github Repo Back-End](https://github.com/AmitkumarMishra-code/programmers-social-media-back-end) | [Website Link](https://affectionate-hermann-54e725.netlify.app/)
