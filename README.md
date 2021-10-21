@@ -2,7 +2,7 @@
 
 I am a highly skilled Full-Stack developer, with core technical expertise in MongoDB, Express.js, React.js, Node.js, and Firebase. Being a quick learner who adapts to new technologies quickly, I believe that we learn from our mistakes, and can confidently say that I very rarely make the same mistake twice. I love working on projects that are challenging, as they help me evolve as a developer. I look forward to working with clients from all over the world, and in the process learn from them and expand my knowledge.
 
-
+# Personal Projects
 ## GeekOverflow: Social Media Website
 #### [Github Repo Front-End](https://github.com/AmitkumarMishra-code/programmers-social-media-front-end) | [Github Repo Back-End](https://github.com/AmitkumarMishra-code/programmers-social-media-back-end) | [Website Link](https://affectionate-hermann-54e725.netlify.app/)
 **Tech : ReactJS, Chakra UI, ExpressJS, MongoDB, REST API**
@@ -57,7 +57,7 @@ I am a highly skilled Full-Stack developer, with core technical expertise in Mon
 
 
 
-## Education
+# Education
 
 #### MERN Stack course from McLaren College
 * October 2020 : 1 Month Javascript Pre-course
