@@ -12,9 +12,9 @@ I am a highly skilled Full-Stack developer, with core technical expertise in Mon
 * I worked on the front-end of the application, built it from scratch and integrated the API.
 
 ###### Screenshots :
-<img src = "https://i.ibb.co/wz7WfdL/Screenshot-2021-10-21-120018.png" style = {borderRadius:'12px', boxShadow:'5px 5px 5px gray'}/>
+<img src = "https://i.ibb.co/wz7WfdL/Screenshot-2021-10-21-120018.png" style =borderRadius:'12px'; boxShadow:'5px 5px 5px gray';/>
 <hr/>
-<img src = "https://i.ibb.co/fCdF4qJ/Screenshot-2021-10-21-115320.png" style = {borderRadius:'12px', boxShadow:'5px 5px 5px gray'}/>
+<img src = "https://i.ibb.co/fCdF4qJ/Screenshot-2021-10-21-115320.png" style = borderRadius:'12px'; boxShadow:'5px 5px 5px gray';/>
 <hr/>
 
 #### Learner App
