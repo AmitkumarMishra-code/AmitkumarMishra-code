@@ -48,7 +48,7 @@ I am a highly skilled Full-Stack developer, with core technical expertise in Mon
 * The Cloud Function used NodeMailer and Mailjet to send the values received from the Contact Form to a fixed email address.
 
 ###### Screenshots :
-<img src = "https://i.ibb.co/GCJ42qJ/screencapture-festive-lovelace-1d6008-netlify-app-2021-10-21-16-01-31.png"/>
+<img src = "https://i.ibb.co/PrzTBNj/screely-1634875571504.png"/>
 <hr/>
 
 #### Client Feedback
