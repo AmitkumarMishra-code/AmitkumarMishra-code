@@ -2,6 +2,17 @@
 
 I am a highly skilled Full-Stack developer, with core technical expertise in MongoDB, Express.js, React.js, Node.js, and Firebase. Being a quick learner who adapts to new technologies quickly, I believe that we learn from our mistakes, and can confidently say that I very rarely make the same mistake twice. I love working on projects that are challenging, as they help me evolve as a developer. I look forward to working with clients from all over the world, and in the process learn from them and expand my knowledge.
 
+# Client Feedback
+**Thulir Software Technologies Private Limited, Chennai, India**
+<img src = "https://i.ibb.co/9VGh8Fd/Screenshot-2021-10-21-123017.png" width = '50%' height = '50%' />
+<hr/>
+<img src = "https://i.ibb.co/Rbt4PsV/Screenshot-2021-10-21-123126.png"  width = '50%' height = '50%' />
+<hr/>
+
+**Torino Ventures Limited, Brighton and Hove, UK**
+<img src = "https://i.ibb.co/kQFsXK2/Screenshot-2021-10-21-123953.png" width = '50%' height = '50%' />
+<hr/>
+
 # Professional Projects
 ## LMS Application for Thulir Software Technologies Private Limited, Chennai, India
 **Tech : ReactJS, Chakra UI**
@@ -12,9 +23,9 @@ I am a highly skilled Full-Stack developer, with core technical expertise in Mon
 * I worked on the front-end of the application, built it from scratch and integrated the API.
 
 ###### Screenshots :
-<img src = "https://i.ibb.co/wz7WfdL/Screenshot-2021-10-21-120018.png"/>
+<img src = "https://i.ibb.co/n1kb5pQ/screely-1634875864493.png"/>
 <hr/>
-<img src = "https://i.ibb.co/fCdF4qJ/Screenshot-2021-10-21-115320.png"/>
+<img src = "https://i.ibb.co/bgJYw72/screely-1634875849578.png"/>
 <hr/>
 
 #### Learner App
@@ -26,18 +37,9 @@ I am a highly skilled Full-Stack developer, with core technical expertise in Mon
 * I worked on the front-end of the application, built it from scratch and integrated the API.
 
 ###### Screenshots :
-<img src = "https://i.ibb.co/KxmfRqm/screencapture-sleepy-feynman-c1bca4-netlify-app-home-2021-10-21-12-14-02.png"/>
+<img src = "https://i.ibb.co/580RBtS/screely-1634875818613.png"/>
 <hr/>
-<img src = "https://i.ibb.co/Wx299xq/screencapture-sleepy-feynman-c1bca4-netlify-app-courses-18-2021-10-21-12-18-24.png"/>
-<hr/>
-
-#### Client Feedback
-**Thulir Software Technologies Private Limited, Chennai, India**
-
-###### Screenshots :
-<img src = "https://i.ibb.co/9VGh8Fd/Screenshot-2021-10-21-123017.png" width = '50%' height = '50%' />
-<hr/>
-<img src = "https://i.ibb.co/Rbt4PsV/Screenshot-2021-10-21-123126.png"  width = '50%' height = '50%' />
+<img src = "https://i.ibb.co/2MtQq6k/screely-1634875798907.png"/>
 <hr/>
 
 ## Contact Us form with Nodemailer and Mailjet node.js Google Cloud Function for Torino Ventures Limited, Brighton and Hove, UK
@@ -49,13 +51,6 @@ I am a highly skilled Full-Stack developer, with core technical expertise in Mon
 
 ###### Screenshots :
 <img src = "https://i.ibb.co/PrzTBNj/screely-1634875571504.png"/>
-<hr/>
-
-#### Client Feedback
-**Torino Ventures Limited, Brighton and Hove, UK**
-
-###### Screenshots :
-<img src = "https://i.ibb.co/kQFsXK2/Screenshot-2021-10-21-123953.png" width = '50%' height = '50%' />
 <hr/>
 
 # Personal Projects
