@@ -5,14 +5,14 @@ I am a highly skilled Full-Stack developer, with core technical expertise in Mon
 # Client Feedback
 **Thulir Software Technologies Private Limited, Chennai, India**
 <hr/>
-<img src = "https://i.ibb.co/9YG0myr/screely-1635238218472.png" width = '50%' height = '50%' />
+<img src = "https://i.ibb.co/9YG0myr/screely-1635238218472.png"  />
 <hr/>
-<img src = "https://i.ibb.co/4gmmRpj/screely-1635238103813.png"  width = '50%' height = '50%' />
+<img src = "https://i.ibb.co/4gmmRpj/screely-1635238103813.png"   />
 <hr/>
 
 **Torino Ventures Limited, Brighton and Hove, UK**
 <hr/>
-<img src = "https://i.ibb.co/MM354s2/screely-1635238160843.png" width = '50%' height = '50%' />
+<img src = "https://i.ibb.co/MM354s2/screely-1635238160843.png" />
 <hr/>
 
 # Professional Projects
