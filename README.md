@@ -16,8 +16,8 @@ I am a highly skilled Full-Stack developer, with core technical expertise in Mon
 <hr/>
 
 # Professional Projects
-## LMS Application for Thulir Software Technologies Private Limited, Chennai, India
-**Tech : ReactJS, Chakra UI**
+## Tech : ReactJS, Chakra UI 
+**LMS Application for Thulir Software Technologies Private Limited, Chennai, India**
 #### Trainer App
 * Trainers/Teachers can add new Courses, new Topics in the Courses and new Quizzes in those Topics.
 * Trainers/Teachers can schedule Live Courses on Cisco Webex.
@@ -44,8 +44,8 @@ I am a highly skilled Full-Stack developer, with core technical expertise in Mon
 <img src = "https://i.ibb.co/2MtQq6k/screely-1634875798907.png"/>
 <hr/>
 
-## Contact Us form with Nodemailer and Mailjet node.js Google Cloud Function for Torino Ventures Limited, Brighton and Hove, UK
-**Tech : ReactJS, Formik, NodeJS and Google Cloud Functions**
+## Tech : ReactJS, Formik, NodeJS and Google Cloud Functions
+**Contact Us form with Nodemailer and Mailjet node.js Google Cloud Function for Torino Ventures Limited, Brighton and Hove, UK**
 
 * The project involved creating a mock Contact Us form using Typescript.
 * I had to create a Google Cloud Function using NodeJS.
