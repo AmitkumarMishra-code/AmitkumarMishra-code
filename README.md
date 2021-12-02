@@ -9,6 +9,8 @@ I am a highly skilled Full-Stack developer, with core technical expertise in Mon
 <hr/>
 <img src = "https://i.ibb.co/4gmmRpj/screely-1635238103813.png"   />
 <hr/>
+<img src = "https://i.ibb.co/cFH34bK/screely-1638445786253.png"  />
+<hr/>
 
 **Torino Ventures Limited, Brighton and Hove, UK**
 <hr/>
